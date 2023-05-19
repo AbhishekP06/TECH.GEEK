@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+.heading{
+
+    font-family: 'Alata', sans-serif;
+    padding: 25px;
+    overflow: hidden;
+    color: #fff;
+    background-color: #000;
+    height: 90px;
+    text-decoration: none;
+   
+}
+.link{
+    text-decoration: none;
+}
+span{
+    color: #fff;
+}
