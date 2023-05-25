@@ -32,6 +32,10 @@
 	float: left;
 	width: 25%;
 	height: 100%;
+	display: -webkit-box;
+   -webkit-line-clamp: 8; /* number of lines to show */
+           line-clamp: 8; 
+   -webkit-box-orient: vertical;
 
 }
 img{
@@ -50,10 +54,7 @@ img{
 	color: #fff;
 	line-height: 1.5;
 	margin-bottom: 0.5rem;
-	display: -webkit-box;
-   -webkit-line-clamp: 8; /* number of lines to show */
-           line-clamp: 8; 
-   -webkit-box-orient: vertical;
+	
 }
 
 .text h3{
