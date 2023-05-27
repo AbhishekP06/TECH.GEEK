@@ -32,7 +32,7 @@
 	float: left;
 	width: 25%;
 	height: 100%;
-
+	object-fit: cover;
 }
 img{
 	width: 100%;
