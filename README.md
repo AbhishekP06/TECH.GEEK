@@ -31,13 +31,22 @@ The TECH.GEEK React project utilizes the following technologies and tools:
 To run the TECH.GEEK React project locally, please follow these steps:
 
 1. Clone the Repository:
-git clone https://github.com/your-username/tech-geek.git
+git clone https://github.com/AbhishekP06/TECH.GEEK.git
 
 2. Navigate to the Project Directory:
 
+> cd tech.geek
+
 3. Install Dependencies:
 
-4. Start the Development Server:
+> npm i react-router-dom
+> npm i axios
+> npm install react-scripts --save
+
+
+5. Start the Development Server:
+
+> npm start
 
 The project will now be running locally at `http://localhost:3000`. Open this URL in your preferred web browser to access the TECH.GEEK web page.
 
