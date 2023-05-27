@@ -40,7 +40,9 @@ git clone https://github.com/AbhishekP06/TECH.GEEK.git
 3. Install Dependencies:
 
 > npm i react-router-dom
+
 > npm i axios
+
 > npm install react-scripts --save
 
 
