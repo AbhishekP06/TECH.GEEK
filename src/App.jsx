@@ -2,7 +2,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './App.css'
 import Navbar from './components/Navbar'
 import PioneerCard from './components/PioneerCard'
-import PioneerView from './components/poineerView'
+import PioneerView from './components/PoineerView'
 
 function App() {
 
