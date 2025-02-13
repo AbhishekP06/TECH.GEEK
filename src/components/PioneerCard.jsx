@@ -6,7 +6,7 @@ function PioneerCard() {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        axios.get('https://mongo-db-backend-omega.vercel.app/pioneer')
+        axios.get('https://mongo-db-backend-omega.vercel.app/api/pioneers')
             .then((response) => {
                 setData(response.data);
             })
