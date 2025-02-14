@@ -7,7 +7,7 @@ function PioneerView() {
     const [pioneer, setPioneer] = useState(null);
 
     useEffect(() => {
-        axios.get(`https://mongo-db-backend-omega.vercel.app/api/pioneers`)
+        axios.get(`https://mongo-db-backend-ruby.vercel.app/api/pioneers`)
             .then((response) => {
                 const foundPioneer = response.data.find(d => d.name === name);
                 setPioneer(foundPioneer);
