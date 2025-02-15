@@ -1,4 +1,4 @@
-# TECH.GEEK - Top Tech People Wiki
+# TECH.GEEK - Top Tech People Wiki(https://tech-geek.vercel.app/)
 
 TECH.GEEK is a React-based web application that provides information about top tech personalities who have significantly contributed to the tech world. It showcases details about pioneers like Steve Jobs, Elon Musk, Dennis Ritchie, and many more.
 
